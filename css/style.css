@@ -3,8 +3,13 @@
     margin: 0;
     padding: 0;
 }
-.container{padding: 20px;}
-.container h1
+body{background-color:lightgrey;}
+.container_header
+{
+    padding: 20px;
+    background-color: white;
+}
+.container_header h1
 {
     display: inline-block;
     vertical-align: middle;
@@ -14,3 +19,35 @@ h1
     font-size: 40px;
 }
 .logo{vertical-align: middle;}
+
+.container_main
+{
+    width: 70%;
+    margin:30px auto;
+    background-color: white;
+    padding: 15px 50px;
+    border-radius: 5px;
+}
+
+.button_blue
+{
+    background-color: lightskyblue;
+    text-align: center;
+    padding: 15px 15px;
+    border: 2px solid lightskyblue;
+    display: inline-block;
+    font-size: 16px;
+    color: white;
+    border-radius: 5px;
+}
+.button_white
+{
+    background-color: white;
+    text-align: center;
+    padding: 15px 15px;
+    border:2px solid lightgrey;
+    display: inline-block;
+    font-size: 16px;
+    color: lightgrey;
+    border-radius: 5px;
+}
