@@ -31,10 +31,10 @@ h1
 
 .button_blue
 {
-    background-color: lightskyblue;
+    background-color: #47ADF1;
     text-align: center;
     padding: 10px 15px;
-    border: 2px solid lightskyblue;
+    border: 2px solid #47ADF1;
     display: inline-block;
     font-size: 16px;
     color: white;
@@ -74,6 +74,14 @@ div section h2{font-size: 20px;}
     padding: 2px;
     
 }
+.cross
+{
+    border-radius: 50%;
+    border: 2px solid red; 
+    color: red; 
+    padding: 2px;
+    
+}
 
 .button
 {
@@ -86,4 +94,14 @@ div section h2{font-size: 20px;}
     border-radius: 10px;
 }
 
-.blue{background-color: skyblue;}
+.blue{background-color: #47ADF1;}
+
+.violet{background-color: #9C72E4;}
+
+.aqua{background-color: #64C0A9;}
+
+.orange{background-color: #F29E33;}
+
+.pink{background-color: #D863A1;}
+
+.gold{background-color: #B0C928;}
