@@ -1,0 +1,16 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.container{padding: 20px;}
+.container h1
+{
+    display: inline-block;
+    vertical-align: middle;
+}
+h1
+{
+    font-size: 40px;
+}
+.logo{vertical-align: middle;}
